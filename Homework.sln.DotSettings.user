@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=44813dd8_002D2131_002D425c_002D9fc9_002D6ad034bd89fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Receive one message from one sensor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E86E0B9D-5701-41FD-B6ED-024A93C06F24::net6.0::Homework.Tests.Features.SensorDataAggregatorFeature.ReceiveOneMessageFromOneSensor&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::E86E0B9D-5701-41FD-B6ED-024A93C06F24::net6.0::Homework.Tests.Features.SensorDataAggregatorFeature.Receive30MessageFromOneSensor&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::E86E0B9D-5701-41FD-B6ED-024A93C06F24::net6.0::Homework.Tests.Features.SensorDataAggregatorFeature.Receive15MessagesFrom3Sensors&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
